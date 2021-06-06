@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/friendly_chat/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/friendly_chat/build" />
+      <excludeFolder url="file://$MODULE_DIR$/signin_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/signin_example/build" />
       <excludeFolder url="file://$MODULE_DIR$/startup_namer/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/startup_namer/build" />
     </content>
